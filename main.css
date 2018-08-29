@@ -1,3 +1,9 @@
-body {
-  background-color: blueviolet;
+
+/* Styling for statements */
+.statement{
+  background-color: purple;
+  border: 2px solid black;
+  width: 50%;
 }
+
+/* styling for volunteers */
